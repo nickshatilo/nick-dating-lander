@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0f"/>
+      <stop offset="100%" style="stop-color:#1a1a2e"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff3366"/>
+      <stop offset="100%" style="stop-color:#7c3aed"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="80%" cy="20%" r="40%">
+      <stop offset="0%" style="stop-color:#ff3366;stop-opacity:0.15"/>
+      <stop offset="100%" style="stop-color:#ff3366;stop-opacity:0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="20%" cy="80%" r="40%">
+      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:0.12"/>
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow1)"/>
+  <rect width="1200" height="630" fill="url(#glow2)"/>
+  <text x="600" y="220" text-anchor="middle" font-family="system-ui,-apple-system,sans-serif" font-size="52" fill="#e4e4e7" opacity="0.6">💘</text>
+  <text x="600" y="330" text-anchor="middle" font-family="system-ui,-apple-system,sans-serif" font-size="96" font-weight="700" fill="url(#txt)">nick.dating</text>
+  <text x="600" y="400" text-anchor="middle" font-family="system-ui,-apple-system,sans-serif" font-size="32" fill="#71717a">Premium Domain For Sale</text>
+  <rect x="440" y="450" width="320" height="60" rx="30" fill="url(#txt)"/>
+  <text x="600" y="490" text-anchor="middle" font-family="system-ui,-apple-system,sans-serif" font-size="24" font-weight="600" fill="white">Make It Yours →</text>
+</svg>
